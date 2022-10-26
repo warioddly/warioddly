@@ -27,7 +27,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     <a href="https://twitter.com/IBekeev" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
