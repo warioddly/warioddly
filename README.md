@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 <br />
 
 ![statistic](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warioddly&layout=compact)
