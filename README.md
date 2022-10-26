@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 </div>
   
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/warioddly/">
+   <a href="https://www.linkedin.com/in/warioddly/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/godofimo">
+  <a href="https://www.instagram.com/godofimo" target="_blank">
       <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
