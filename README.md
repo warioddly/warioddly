@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/godofimo" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
