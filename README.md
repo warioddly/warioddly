@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8WeatsYCC54TC/giphy.gif" width="100"/>
 </div>
+  
+<div id="badges">
+   <a href="[linkedin-URL](https://www.linkedin.com/in/warioddly/)">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[instagram-URL](https://www.instagram.com/godofimo)">
+      <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
 
