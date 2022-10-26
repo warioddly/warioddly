@@ -19,11 +19,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
 </div>
   
-
-
-![statistic](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warioddly&layout=compact)
-
 <div id="badges" align="center">
    <a href="[linkedin-URL](https://www.linkedin.com/in/warioddly/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,3 +27,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+
+![statistic](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warioddly&layout=compact)
