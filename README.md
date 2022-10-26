@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![statistic](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warioddly&layout=compact)
 
-<div id="badges">
+<div id="badges" align="center">
    <a href="[linkedin-URL](https://www.linkedin.com/in/warioddly/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
