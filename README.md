@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/8WeatsYCC54TC/giphy.gif" width="100"/>
+</div>
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
 
