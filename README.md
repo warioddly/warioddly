@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm WARIODDLY
 
 <!--
 **warioddly/warioddly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/8WeatsYCC54TC/giphy.gif" width="100"/>
-</div>
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/8WeatsYCC54TC/giphy.gif" width="200"/>
+</div>-->
   
+
+
+![statistic](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warioddly&layout=compact)
+
 <div id="badges">
    <a href="[linkedin-URL](https://www.linkedin.com/in/warioddly/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,7 +32,3 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
-![enter image description here](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warioddly)
