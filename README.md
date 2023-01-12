@@ -23,9 +23,6 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/warioddly/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/godofimo" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-grey?logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
     <a href="https://twitter.com/IBekeev" target="_blank">
       <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
