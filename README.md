@@ -1,12 +1,17 @@
-<h1 align="center">WARIODDLY's GitHub Page</h1>
 
 
 <div id="header" align="center">
+  <h1>WARIODDLY's GitHub Page</h1>
   <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
 </div>
 
 
+<br />
 
+
+<div id="statistics" align="center">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warioddly&amp;theme=dark" alt="Warioddly's GitHub streak chart"></p>
+</div>
 
 <div id="badges" align="center">
   
@@ -28,7 +33,6 @@
   </a>
 </div>
 
-<br />
 <br />
 <!--
 ![statistic](https://github-readme-stats.vercel.app/api?username=warioddly&&show_icons=true&&theme=tokyonight)
