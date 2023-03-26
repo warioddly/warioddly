@@ -11,6 +11,7 @@
 
 <div id="statistics" align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warioddly&amp;theme=dark" alt="Warioddly's GitHub streak chart"></p>
+  <p><img src="https://leetcode.card.workers.dev/?username=warioddly&amp" alt="LeetCode stats"></p>
 </div>
 
 <div id="badges" align="center">
