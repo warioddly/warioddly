@@ -3,6 +3,8 @@
 <div id="header" align="center">
   <h1>WARIODDLY's GitHub Page</h1>
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+  
   <p>
     <a href="https://www.linkedin.com/in/warioddly/" target="_new">
       <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&amp;style=flat&amp;logoColor=white" alt="LinkedIn Badge"/>
@@ -27,22 +29,23 @@
 
 <div id="statistics" align="center">
   
-  <div id="statistics_header" align="center">
-    <h4 align="center">My Statistics</h4>
-  </div>
-  
+  ### GitHub Activity Graph:
+  [![WARIODDLY's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=warioddly&theme=github-compact)](https://github.com/warioddly/github-readme-activity-graph)
+
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warioddly&amp;theme=dark" alt="Warioddly's GitHub streak chart"></p>
   <p><img src="https://leetcode.card.workers.dev/?username=warioddly&amp;theme=dark" alt="LeetCode stats"></p>
   
+  #### Profile Views
+![](https://count.getloli.com/get/@warioddly.github.readme)
+  
 </div>
 
+<br />
 
 <div id="badges" align="center">
   
-  <div id="badge_header" align="center">
-    <h6 align="center">Contact Me</h6>
-  </div>
-  
+  ### Contact Me
+ 
    <a href="https://www.linkedin.com/in/warioddly/" target="_new">
       <img src="https://img.shields.io/badge/Linkedin-WARIODDLY-blue?logo=Linkedin" alt="LinkedIn Badge"/>
   </a>
@@ -56,7 +59,14 @@
     <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
   </a>
   
+  <br />
+  
+  
+  [MIT](LICENSE)
+  
 </div>
 
+  
 <br />
+
 
