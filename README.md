@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <h1>WARIODDLY's GitHub Page</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
   
   <p>
     <a href="https://www.linkedin.com/in/warioddly/" target="_new">
@@ -21,6 +21,7 @@
   </p>
   
   <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
+  
 </div>
 
 
