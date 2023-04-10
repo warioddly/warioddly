@@ -30,7 +30,7 @@
 
 <div id="statistics" align="center">
   
-  ### GitHub Activity Graph:
+  ### GitHub Activity:
   [![WARIODDLY's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=warioddly&theme=github-compact)](https://github.com/warioddly/github-readme-activity-graph)
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warioddly&amp;theme=dark" alt="Warioddly's GitHub streak chart"></p>
