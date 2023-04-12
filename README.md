@@ -53,9 +53,6 @@
   <a href="mailto: warioddly@gmail.com" target="_new">
     <img src="https://img.shields.io/badge/Gmail-WARIODDLY-red?logo=Gmail" alt="Gmail Badge"/>
   </a>
-  <a href="https://leetcode.com/warioddly/" target="_new">
-    <img src="https://img.shields.io/badge/LeetCode-WARIODDLY-yellow?logo=Leetcode" alt="LeetCode Badge">
-  </a>
   <a href="https://twitter.com/IBekeev" target="_new">
     <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
   </a>
