@@ -69,11 +69,9 @@
 </div>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=1&center=true&vCenter=true&width=600%&lines=Thanks+For+Visiting"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=10&center=true&vCenter=true&width=600%&lines=Thanks+For+Visiting"/>
 <br>
 
-<br />
-  
 -----
 <p align="center">
     Credits: <a href="https://github.com/warioddly">WARIODDLY</a>
