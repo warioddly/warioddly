@@ -1,15 +1,8 @@
 
 
 <div id="header" align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
   
-  
-   <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
-  <h1>WARIODDLY's GitHub Page</h1>
-  
-  
-
+    
   
   <p>
     <a href="https://www.linkedin.com/in/warioddly/" target="_new">
@@ -26,6 +19,13 @@
     </a>
   </p>
   
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+  
+  
+   <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
+  <h1>WARIODDLY's GitHub Page</h1>
+
   <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
   
 </div>
@@ -72,7 +72,11 @@
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=1&center=true&vCenter=true&width=600%&lines=Thanks+For+Visiting"/>
 <br>
 
-  
 <br />
+  
+-----
+<p align="center">
+    Credits: <a href="https://github.com/warioddly">WARIODDLY</a>
+</p>
 
 
