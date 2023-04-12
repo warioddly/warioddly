@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <h1>WARIODDLY's GitHub Page</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
   
   <p>
     <a href="https://www.linkedin.com/in/warioddly/" target="_new">
@@ -24,9 +24,8 @@
   
 </div>
 
-
 <br />
-
+<img src="https://github-profile-trophy.vercel.app/?username=warioddly&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="SurajPratap10" width=200% height=100%/>
 
 <div id="statistics" align="center">
   
@@ -63,6 +62,10 @@
   [MIT](LICENSE)
   
 </div>
+
+<p align="right">
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=1&center=true&vCenter=true&width=600%&lines=Thanks+For+Visiting"/>
+<br>
 
   
 <br />
