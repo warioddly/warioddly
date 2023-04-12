@@ -25,7 +25,6 @@
 </div>
 
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=warioddly&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="SurajPratap10" width=200% height=100%/>
 
 <div id="statistics" align="center">
   
