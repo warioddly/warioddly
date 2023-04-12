@@ -1,9 +1,15 @@
 
 
 <div id="header" align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+  
+  
+   <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
   <h1>WARIODDLY's GitHub Page</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+  
+
   
   <p>
     <a href="https://www.linkedin.com/in/warioddly/" target="_new">
