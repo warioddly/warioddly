@@ -3,12 +3,11 @@
 <div id="header" align="center">
   
     
-  
   <p>
     <a href="https://www.linkedin.com/in/warioddly/" target="_new">
       <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&amp;style=flat&amp;logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto: warioddly@gmail.com" target="_new">
+    <a href="mailto: off3nied@gmail.com" target="_new">
       <img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&amp;style=flat&amp;logoColor=white" alt="Gmail Badge">
     </a>
     <a href="https://leetcode.com/warioddly/" target="_new">
@@ -54,7 +53,7 @@
    <a href="https://www.linkedin.com/in/warioddly/" target="_new">
       <img src="https://img.shields.io/badge/Linkedin-WARIODDLY-blue?logo=Linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto: warioddly@gmail.com" target="_new">
+  <a href="mailto: off3nied@gmail.com" target="_new">
     <img src="https://img.shields.io/badge/Gmail-WARIODDLY-red?logo=Gmail" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/IBekeev" target="_new">
