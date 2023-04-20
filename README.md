@@ -38,6 +38,7 @@
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warioddly&amp;theme=dark" alt="Warioddly's GitHub streak chart"></p>
   <p><img src="https://leetcode.card.workers.dev/?username=warioddly&amp;theme=dark" alt="LeetCode stats"></p>
+  <p><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=warioddlly&theme=dark"> </p>
   
   #### Profile Views
 ![](https://count.getloli.com/get/@warioddly.github.readme)
