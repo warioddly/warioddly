@@ -1,29 +1,13 @@
 
 
 <div id="header" align="center">
-  
-    
-  <p>
-    <a href="https://www.linkedin.com/in/warioddly/" target="_new">
-      <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&amp;style=flat&amp;logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto: off3nied@gmail.com" target="_new">
-      <img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&amp;style=flat&amp;logoColor=white" alt="Gmail Badge">
-    </a>
-    <a href="https://leetcode.com/warioddly/" target="_new">
-      <img src="https://img.shields.io/badge/LeetCode-yellow?logo=Leetcode&amp;style=flat&amp;logoColor=white" alt="LeetCode Badge">
-    </a>
-    <a href="https://twitter.com/IBekeev" target="_new">
-      <img src="https://img.shields.io/badge/twitter-blue?logo=twitter&amp;style=flat&amp;logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </p>
-  
+
+ <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+
+
   
-  
-   <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
-  <h1>WARIODDLY's GitHub Page</h1>
 
   <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
   
@@ -60,6 +44,11 @@
   </a>
   <a href="https://twitter.com/IBekeev" target="_new">
     <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
+  </a>
+
+
+  <a href="https://leetcode.com/warioddly/" target="_new">
+    <img src="https://img.shields.io/badge/leetcode-WARIODDLY-yellow?logo=LeetCode" alt="LeetCode Badge"/>
   </a>
   
   <br />
