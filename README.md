@@ -6,14 +6,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 
-
-  
-
-  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
-  
 </div>
-
-<br />
 
 <div id="statistics" align="center">
   
@@ -23,10 +16,6 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warioddly&amp;theme=dark" alt="Warioddly's GitHub streak chart"></p>
   <p><img src="https://leetcode.card.workers.dev/?username=warioddly&amp;theme=dark" alt="LeetCode stats"></p>
 <!--   <p><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=warioddlly&theme=dark"> </p> -->
-  
-  #### Profile Views (since 30 march 2023)
-  
-![](https://count.getloli.com/get/@warioddly.github.readme)
   
 </div>
 
@@ -46,21 +35,17 @@
     <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
   </a>
 
-
   <a href="https://leetcode.com/warioddly/" target="_new">
     <img src="https://img.shields.io/badge/leetcode-WARIODDLY-yellow?logo=LeetCode" alt="LeetCode Badge"/>
   </a>
   
   <br />
-  
+    <br />
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
   
   [MIT](LICENSE)
   
 </div>
-
-<p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=16&center=true&vCenter=true&width=600%&lines=Thanks+For+Visiting"/>
-<br>
 
 -----
 <p align="center">
