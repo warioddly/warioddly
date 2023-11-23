@@ -29,6 +29,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
+          plugin_leetcode: yes
+          plugin_leetcode_user: warioddly
           plugin_pagespeed: no
           plugin_pagespeed_detailed: no
           plugin_pagespeed_url: .user.website
@@ -37,11 +39,5 @@ jobs:
           plugin_contributors_head: master
           plugin_contributors_ignored: bot
           plugin_contributors_contributions: yes
-          plugin_stackoverflow: no
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_stackoverflow_user: 6914561
           plugin_stars: yes
           plugin_stars_limit: 4
