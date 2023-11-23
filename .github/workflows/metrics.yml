@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           user: temirovazat
           base: header, activity, community, repositories, metadata
           config_display: large
