@@ -31,6 +31,7 @@ jobs:
           plugin_notable: yes
           plugin_leetcode: yes
           plugin_leetcode_user: warioddly
+          plugin_leetcode_sections: solved, skills, recent
           plugin_pagespeed: no
           plugin_pagespeed_detailed: no
           plugin_pagespeed_url: .user.website
