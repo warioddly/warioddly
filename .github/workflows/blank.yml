@@ -1,0 +1,51 @@
+name: Metrics Update
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: temirovazat
+          base: header, activity, community, repositories, metadata
+          config_display: large
+          config_padding: 0, 4 + 2%
+          config_timezone: Asia/Bishkek
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_pagespeed: no
+          plugin_pagespeed_detailed: no
+          plugin_pagespeed_url: .user.website
+          plugin_contributors: yes
+          plugin_contributors_base: ""
+          plugin_contributors_head: master
+          plugin_contributors_ignored: bot
+          plugin_contributors_contributions: yes
+          plugin_stackoverflow: no
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 6914561
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_music: yes
+          plugin_music_provider: apple
+          plugin_music_limit: 6
+          plugin_music_playlist: https://embed.music.apple.com/ch/playlist/mix-pr%C3%A9f%C3%A9r%C3%A9/pl.pm-20e9f373919da0806036994e8d4b4c8f?l=fr
