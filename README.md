@@ -33,9 +33,9 @@
   <a href="mailto: off3nied@gmail.com" target="_new">
     <img src="https://img.shields.io/badge/Gmail-WARIODDLY-red?logo=Gmail" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/IBekeev" target="_new">
+<!--   <a href="https://twitter.com/IBekeev" target="_new">
     <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 
   <a href="https://leetcode.com/warioddly/" target="_new">
     <img src="https://img.shields.io/badge/leetcode-WARIODDLY-yellow?logo=LeetCode" alt="LeetCode Badge"/>
