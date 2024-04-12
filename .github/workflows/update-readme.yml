@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: "59 * * * *"
+    - cron: "*/50 * * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -15,7 +15,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        with:
-          COMMIT_MSG: "GitHub Activity Readme "
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
