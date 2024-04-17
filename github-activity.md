@@ -1,7 +1,7 @@
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4148](https://github.com/felangel/bloc/pull/4148) in [felangel/bloc](https://github.com/felangel/bloc)
-2. 💪 Opened PR [#2](https://github.com/warioddly/orbit-trace/pull/2) in [warioddly/orbit-trace](https://github.com/warioddly/orbit-trace)
-3. 💪 Opened PR [#4145](https://github.com/felangel/bloc/pull/4145) in [felangel/bloc](https://github.com/felangel/bloc)
+1. ❌ Closed PR [#4144](https://github.com/felangel/bloc/pull/4144) in [felangel/bloc](https://github.com/felangel/bloc)
+2. 💪 Opened PR [#4148](https://github.com/felangel/bloc/pull/4148) in [felangel/bloc](https://github.com/felangel/bloc)
+3. 💪 Opened PR [#2](https://github.com/warioddly/orbit-trace/pull/2) in [warioddly/orbit-trace](https://github.com/warioddly/orbit-trace)
 4. 💪 Opened PR [#32488](https://github.com/github/docs/pull/32488) in [github/docs](https://github.com/github/docs)
 5. 💪 Opened PR [#32486](https://github.com/github/docs/pull/32486) in [github/docs](https://github.com/github/docs)
 6. 🔒 Closed issue [#6](https://github.com/warioddly/pacman/issues/6) in [warioddly/pacman](https://github.com/warioddly/pacman)
