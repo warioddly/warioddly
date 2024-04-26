@@ -21,7 +21,7 @@
   
 </div>
 
-<br />
+<!--<br />
 
 <div id="badges" align="center">
   
@@ -33,9 +33,9 @@
   <a href="mailto: off3nied@gmail.com" target="_new">
     <img src="https://img.shields.io/badge/Gmail-WARIODDLY-red?logo=Gmail" alt="Gmail Badge"/>
   </a>
-<!--   <a href="https://twitter.com/IBekeev" target="_new">
+   <a href="https://twitter.com/IBekeev" target="_new">
     <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
-  </a> -->
+  </a> 
 
   <br />
     <br />
@@ -43,7 +43,7 @@
   
   [MIT](LICENSE)
   
-</div>
+</div>-->
 
 -----
 <p align="center">
