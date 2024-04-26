@@ -37,10 +37,6 @@
     <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
   </a> -->
 
-  <a href="https://leetcode.com/warioddly/" target="_new">
-    <img src="https://img.shields.io/badge/leetcode-WARIODDLY-yellow?logo=LeetCode" alt="LeetCode Badge"/>
-  </a>
-  
   <br />
     <br />
   <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
