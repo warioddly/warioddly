@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm IMØ, a single-minded tech enthusiast, and i am crafting with Dart/Flutter, Javascript/Next.js/React and Laravel.
+#### I'm IMØ, a single-minded tech enthusiast, and i am crafting with Dart/Flutter, Javascript/Next.js/React and Laravel.
 
 🌐 Website  [visit the website](https://warioddly.vercel.app/)  
 💬 Сonnect  [@warioddly](https://linkedin.com/in/warioddly)    
@@ -22,7 +22,7 @@ I'm IMØ, a single-minded tech enthusiast, and i am crafting with Dart/Flutter, 
 <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astrojs"  alt="Astrojs" width="25" height="25"/>&nbsp;
 </p>
 
-##### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/)  
+#### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/)  
 
 
 ### Let's connect
