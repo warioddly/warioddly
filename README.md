@@ -18,7 +18,8 @@ I'm IMØ, a single-minded tech enthusiast, and i am crafting with Dart/Flutter, 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="25" height="25"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astrojs"  alt="Astrojs" width="25" height="25"/>&nbsp;
 </p>
 
 ##### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/)  
