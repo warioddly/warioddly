@@ -1,53 +1,32 @@
 
 
-<div id="header" align="center">
+<img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
 
- <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
+### Hi there 👋
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+WARIODDLY;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+I'm IMØ, a single-minded tech enthusiast, and i am crafting with Dart/Flutter, Javascript/Mext.js/React and Laravel.
 
-</div>
+🌐 Website  [visit the website](https://warioddly.vercel.app/)  
+💬 Сonnect  [@warioddly](https://linkedin.com/in/warioddly)    
+💻 Practice [LeetCode](https://leetcode.com/warioddly/)
 
-<div id="statistics" align="center">
-  
-  ### GitHub Activity:
+### Crafting With:
 
- <picture>
-  <img src="/github-metrics.svg" alt="Warioddly's GitHub Metrics">
-</picture>
-<!--  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=warioddly&amp;theme=dark" alt="Warioddly's GitHub streak chart"></p> -->
-<!--  <p><img src="https://leetcode.card.workers.dev/?username=warioddly&amp;theme=dark" alt="LeetCode stats"></p> -->
-<!--   <p><img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=warioddlly&theme=dark"> </p> -->
-  
-</div>
-
-<!--<br />
-
-<div id="badges" align="center">
-  
-  ### Contact Me
- 
-   <a href="https://www.linkedin.com/in/warioddly/" target="_new">
-      <img src="https://img.shields.io/badge/Linkedin-WARIODDLY-blue?logo=Linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto: off3nied@gmail.com" target="_new">
-    <img src="https://img.shields.io/badge/Gmail-WARIODDLY-red?logo=Gmail" alt="Gmail Badge"/>
-  </a>
-   <a href="https://twitter.com/IBekeev" target="_new">
-    <img src="https://img.shields.io/badge/twitter-WARIODDLY-blue?logo=twitter" alt="Twitter Badge"/>
-  </a> 
-
-  <br />
-    <br />
-  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="350"/>
-  
-  [MIT](LICENSE)
-  
-</div>-->
-
------
-<p align="center">
-    Credits: <a href="https://github.com/warioddly">WARIODDLY</a>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"  alt="Flutter" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="30" height="30"/>&nbsp;
 </p>
 
+##### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/)  
 
+
+### Let's connect
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/warioddly/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/warioddly)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~wrdly)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/warioddly)
