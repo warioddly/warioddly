@@ -28,3 +28,5 @@ I'm IMØ, a single-minded tech enthusiast, and i am crafting with Dart/Flutter, 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/warioddly/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/warioddly)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~wrdly)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/warioddly)
