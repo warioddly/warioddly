@@ -1,6 +1,5 @@
 
-
-<img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/>
+<!-- <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/> -->
 
 ### Hi there 👋
 
