@@ -1,13 +1,12 @@
-
-<!-- <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="warioddly gitgub header image"/> -->
-
 ## Hi there 👋
 
 #### I'm Imo, a driven tech enthusiast who loves building mobile and web applications.
 
-🌐 Visit my [website](https://warioddly.vercel.app/)  
-💬 Сonnect [@warioddly](https://linkedin.com/in/warioddly)    
-💻 Practice [LeetCode](https://leetcode.com/warioddly/)
+### Find Me Online:
+
+- 💼 [LinkedIn](https://linkedin.com/in/warioddly) — Connect and network with me!  
+- 💻 [LeetCode](https://leetcode.com/warioddly/) — Check out my problem-solving journey.  
+- 🌍 [Website](https://warioddly.vercel.app/) — Explore my projects and skills in detail.
 
 ### Crafting With:
 
