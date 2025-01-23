@@ -19,7 +19,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="25" height="25"/>&nbsp;
 </p>
 
-#### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/)  
+#### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/skills)  
 
 
 ### Let's connect
