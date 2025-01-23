@@ -5,7 +5,7 @@
 
 #### I'm Imo, a driven tech enthusiast who loves building mobile and web applications.
 
-🌐 Visit [website](https://warioddly.vercel.app/)  
+🌐 Visit my [website](https://warioddly.vercel.app/)  
 💬 Сonnect [@warioddly](https://linkedin.com/in/warioddly)    
 💻 Practice [LeetCode](https://leetcode.com/warioddly/)
 
