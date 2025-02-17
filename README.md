@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm Imo, a driven tech enthusiast who loves building mobile and web applications.
+#### I'm IMO, a driven tech enthusiast who loves building mobile and web applications.
 
 ### Find Me Online:
 
