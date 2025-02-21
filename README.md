@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-#### I'm IMO, a driven tech enthusiast who loves building mobile and web applications.
-
-### Find Me Online:
-
-- 💼 [LinkedIn](https://linkedin.com/in/warioddly) — Connect and network with me!  
-- 💻 [LeetCode](https://leetcode.com/warioddly/) — Check out my problem-solving journey.  
-- 🌍 [Website](https://warioddly.vercel.app/) — Explore my projects and skills in detail.
+I'm IMO, a driven tech enthusiast who loves building mobile and web applications.
 
 ### Crafting With:
 
@@ -18,8 +12,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="25" height="25"/>&nbsp;
 </p>
 
-#### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/skills)  
-
+> #### You can find more information about the skills here [@visit the website](https://warioddly.vercel.app/skills)  
 
 ### Let's connect
 
