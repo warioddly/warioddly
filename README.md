@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm IMO, a driven tech enthusiast who loves building interesting things.
+I'm warioddly, a purposeful technology enthusiast who likes to create interesting things.
 
 #### Crafting With:
 
