@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm warioddly, a purposeful technology enthusiast who likes to create interesting things.
+I'm IMØ, a purposeful technology enthusiast who likes to create interesting things.
 
 #### Crafting With:
 
