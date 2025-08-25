@@ -25,4 +25,4 @@ I'm **IMØ**, a purposeful technology enthusiast who likes to create interesting
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/warioddly)
 
 
-> #### You can find more information about me here [@visit the website](https://warioddly.vercel.app/skills)  
+> #### You can find more information about me here [@visit the website](https://warioddly.vercel.app/)  
