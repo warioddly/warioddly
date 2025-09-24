@@ -16,7 +16,8 @@ I'm **IMØ**, a purposeful technology enthusiast who likes to create interesting
 
 #### Useful
 
-[![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/kg/developer/imankadyr-bekeev/id1822493477)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/kg/developer/imankadyr-bekeev/id1822493477)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=5651326171887151457)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/warioddly/)
 
 #### Let's connect
