@@ -14,6 +14,8 @@ I'm **IMØ**, a purposeful technology enthusiast who likes to create interesting
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;
 </p>
 
+<!---
+
 #### Useful
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/kg/developer/imankadyr-bekeev/id1822493477)
@@ -23,6 +25,6 @@ I'm **IMØ**, a purposeful technology enthusiast who likes to create interesting
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/warioddly)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/warioddly)
-
+-->
 
 > #### You can find more information about me here [@visit the website](https://warioddly.vercel.app/)  
